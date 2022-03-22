@@ -1,6 +1,6 @@
 # ! /usr/Ьin/env python
 """
-Передаем привет всему миру, Hello World!
+Передаем привет всему миру, Hello World! https://github.com/schedutron/CPAP
 
 Создаем окно верхнего уровня.
 Добавляем графический элемент LaЬel, который содержит строку Hello World!.
